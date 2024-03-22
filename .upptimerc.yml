@@ -7,8 +7,8 @@ sites:
     url: https://uptime.xeza.in
   - name: Blog
     url: https://blog.xeza.in
-  - name: Hacker News
-    url: https://news.xeza.in
+  - name: Community
+    url: https://community.xeza.in
   - name: Cloudflare
     url: https://cloudflare.in
   - name: Youtube
